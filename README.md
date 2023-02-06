@@ -1,6 +1,8 @@
+
 ### Olá! eu sou o João Araújo ✌
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-ara%C3%BAjo-25511b263/)
+[![Hotmail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://outlook.live.com/mail/0/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictoraraujodev&show_icons=true&theme=onedark)
 
@@ -13,5 +15,6 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/joaovictoraraujodev/joaovictoraraujodev)
 
 Estudante de Análise e Desenvolvimento de Sistemas.
