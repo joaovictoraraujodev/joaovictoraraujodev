@@ -16,3 +16,5 @@
 </div><br/>
 
 Estudante de Análise e Desenvolvimento de Sistemas.
+
+![snake gif](https://github.com/Formandodev/joaovictoraraujodev/blob/output/github-contribution-grid-snake.svg)
