@@ -17,4 +17,4 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas.
 
-![snake gif](https://github.com/joaovictoraraujodev/joaovictoraraujodev/blob/output/github-contribution-grid-snake.svg)
+
